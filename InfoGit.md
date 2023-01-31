@@ -22,3 +22,5 @@
 ![](https://st.depositphotos.com/3047333/4830/i/600/depositphotos_48304783-stock-photo-cat-sitting-in-snow.jpg)
 
 ## Основные команды 2-го семинара
+
+> **git branch <branch_name>** - создать новую ветку с именем branch_name
