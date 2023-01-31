@@ -20,3 +20,5 @@
 
 Прощальный котик, потому что котики лишними не бывают)
 ![](https://st.depositphotos.com/3047333/4830/i/600/depositphotos_48304783-stock-photo-cat-sitting-in-snow.jpg)
+
+## Основные команды 2-го семинара
