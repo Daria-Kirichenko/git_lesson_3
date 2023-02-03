@@ -29,3 +29,9 @@
 > **git checkout -d <branch_name>** - удалить ветку с именем branch_name
 
 ## Основные команды 3-го семинара
+
+> **git clone** - 
+
+> **git pull** - 
+
+> **git push** - 
